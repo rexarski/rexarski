@@ -11,5 +11,5 @@ Currently:
 - practicing [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) to organize my digital “stuffs”.
 - still looking for a perfect ramen shop around me.
 - music fan of [Glass Animals](https://www.youtube.com/channel/UCJTs-KheOMNstaGrDL4K55Q), [the Neighbourhood](https://thenbhd.com/), [Marc Rebillet](https://www.youtube.com/channel/UCXgxNzAgZ1GExhTW4X1mUrg) and [Postmodern Jukebox](https://www.youtube.com/channel/UCORIeT1hk6tYBuntEXsguLg).
-- passed [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/02bde1d0-0a61-4ad3-a268-a73138b37855/public_url).
+- [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/02bde1d0-0a61-4ad3-a268-a73138b37855/public_url)
 - My [List of 2021](https://www.notion.so/rqiu/4550aa0bf3894353b9816af5084b48fd?v=aee2730e660b42e486cacc7b42e11ed6).
